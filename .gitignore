@@ -1,0 +1,15 @@
+/target/
+
+/reports/
+/.settings/
+.git
+.classpath
+.project
+/chrome.exe
+*.iml
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
